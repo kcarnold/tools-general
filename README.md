@@ -1,21 +1,21 @@
 # Tools for the Indigitous #hack
-This page will serve as a hub for listing tools, software, APIs and services to the [Indigitous #hack] (https://indigitous.org/hack) Feel free to make pull requests to add to and update this list.
+This page will serve as a hub for listing tools, software, APIs and services for [Indigitous #Hack] (https://indigitous.org/hack). Feel free to make pull requests to add to and update this list.
 
-## Getting started with the #hack
-To get started with the hack:
+## Getting started with #Hack
+To get started:
 
 1. [Register for the #hack] (https://indigitous.org/hack)
 2. [Get Slack] (https://slack.com/)
-3. Join the [Kingdom Builders Slack] community. We will collaborate everything through Kingdom Builders Slack. (http://kingdombuilders.io/)
+3. Join the [Kingdom Builders Slack] (http://kingdombuilders.io/) community. We will collaborate everything through Kingdom Builders Slack. 
 4. Come and hack on Nov 4-6 (or hack [online] (https://indigitous.org/location/virtual/))
 
 
 ## General Tools for the hack
-* Bring you tech -
-  * Laptop Computer with preferred OS (Desktop tower, monitor, keyboard and mouse possible, but not recommended)
+* Bring your tech -
+  * Laptop with preferred OS (Desktop tower, monitor, keyboard and mouse possible, but not recommended)
   * Tablet
   * Smartphone
-  * Raspberry pi
+  * Raspberry Pi
   * whatever
 * Text editor / IDE of choice
 * Each [challenge] (https://indigitous.org/hack/challenges/) is very different and might require special tools. Check on the challenge page for more info.
@@ -31,7 +31,7 @@ PostMan (API tool)|https://www.getpostman.com/|The tool for testing APIs
 CORs Allow Chrome Plugin|https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi|Super simple way to solve Cross Site Scripting issues in your Chrome Browser
 Zapier|https://zapier.com/|Don't rebuild the wheel unless you need to. Zapier interfaces with LOTS of API so you don't have to
 ifttt|https://ifttt.com/|Don't rebuild the wheel unless you need to. IFTTT interfaces with LOTS of API so you don't have to
-AWS Lambda|https://aws.amazon.com/lambda/|Need to run code as a responce to an event or build a REST API? Complex, powerful and steep learning curve
+AWS Lambda|https://aws.amazon.com/lambda/|Need to run code as a response to an event or build a REST API? Complex, powerful and steep learning curve
 
 
 
